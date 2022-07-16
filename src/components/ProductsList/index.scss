@@ -1,0 +1,16 @@
+.price {
+  margin-top: 20px;
+  display: flex;
+  font-size: 16px;
+  align-items: center;
+}
+.product-price {
+  font-size: 22px;
+  font-weight: 900;
+  margin-right: 8px;
+}
+.product-old-price {
+  font-weight: 600;
+  text-decoration: line-through;
+  color: #a3a3a3;
+}
